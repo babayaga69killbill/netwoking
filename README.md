@@ -1,8 +1,4 @@
-# Netwoking
-
-# Networks & Cloud Computing Knowledge Base
-
-Welcome to the comprehensive guide on Cloud Networking fundamentals. This repository consolidates advanced networking concepts, kernel-level operations, and Kubernetes networking architectures.
+# Networks & Cloud Computing
 
 ## 📚 Table of Contents
 
@@ -34,5 +30,4 @@ Welcome to the comprehensive guide on Cloud Networking fundamentals. This reposi
 | **VXLAN** | L2 over L3 | Large-scale cloud overlays (16M+ IDs) |
 | **eBPF** | Kernel | High-performance packet filtering (Cilium) |
 
-## 🤝 Contributing
-Feel free to submit a Pull Request to add more topics on Cloud Load Balancers, VPC Peering, or BGP!
+
